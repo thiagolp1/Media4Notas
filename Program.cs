@@ -43,3 +43,4 @@ else
     }
 
     Console.WriteLine($"Você ficou com média {media:n1}. Resultado: {resultado}");
+}
